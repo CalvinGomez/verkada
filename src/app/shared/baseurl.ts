@@ -1,0 +1,1 @@
+export const baseURL = 'https://hiring.verkada.com/thumbs/';
